@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.wenzisay.scaffold</groupId>
+	<artifactId>wenzi-commons</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>wenzi-commons</name>
+	<description> a package of Java utility classes</description>
+
+	<developers>
+		<developer>
+			<name>wenzi</name>
+			<id>wenzi</id>
+			<email>hashcode@outlook.com</email>
+			<organization>Freelance</organization>
+			<roles>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+	</developers>
+	
+	<modules>
+		<module>wenzi-commons-parent</module>
+	</modules>
+
+
+</project>
