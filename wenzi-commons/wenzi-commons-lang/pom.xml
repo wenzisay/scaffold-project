@@ -2,22 +2,22 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	
+
 	<parent>
 		<groupId>com.wenzisay.scaffold</groupId>
 		<artifactId>wenzi-commons-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../wenzi-commons-parent</relativePath>
 	</parent>
-	
+
 	<artifactId>wenzi-commons-lang</artifactId>
 	<name>wenzi-commons-lang</name>
 	<description>wenzi-commons-lang</description>
-	
+
 	<dependencies>
-		<!-- <dependency>
+		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
-		</dependency> -->
+		</dependency>
 	</dependencies>
 </project>
