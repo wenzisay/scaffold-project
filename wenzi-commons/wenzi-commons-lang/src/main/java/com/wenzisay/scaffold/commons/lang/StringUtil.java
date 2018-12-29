@@ -1,5 +1,12 @@
 package com.wenzisay.scaffold.commons.lang;
 
-public class StringUtil {
+import org.apache.commons.lang3.StringUtils;
+
+/**
+ * 
+ * @author viruser
+ *
+ */
+public class StringUtil extends StringUtils{
 
 }
