@@ -13,8 +13,8 @@
 
 	<modules>
 		<module>wenzi-spring-cloud-parent</module>
-		<!-- <module>wenzi-spring-cloud-eureka</module>
-		<module>wenzi-spring-cloud-admin</module> -->
+		<module>wenzi-spring-cloud-eureka</module>
+		<!-- <module>wenzi-spring-cloud-admin</module> -->
 	</modules>
 
 

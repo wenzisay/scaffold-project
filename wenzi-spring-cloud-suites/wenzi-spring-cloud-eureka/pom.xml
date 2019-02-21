@@ -13,7 +13,7 @@
 		<groupId>com.wenzisay.scaffold</groupId>
 		<artifactId>wenzi-spring-cloud-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../wenzi-spring-cloud-patent</relativePath>
+		<relativePath>../wenzi-spring-cloud-parent</relativePath>
 	</parent>
 
 	<!-- <properties>
@@ -35,18 +35,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
-	<dependencyManagement>
-		<dependencies>
-			<dependency>
-				<groupId>org.springframework.cloud</groupId>
-				<artifactId>spring-cloud-dependencies</artifactId>
-				<version>${spring-cloud.version}</version>
-				<type>pom</type>
-				<scope>import</scope>
-			</dependency>
-		</dependencies>
-	</dependencyManagement>
 
 	<build>
 		<plugins>
