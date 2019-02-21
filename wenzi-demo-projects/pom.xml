@@ -4,17 +4,16 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.wenzisay.scaffold</groupId>
-	<artifactId>scaffold-project</artifactId>
+	<artifactId>wenzi-demo-projects</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>scaffold-projectons</name>
-	<description>scaffold-project</description>
+	<name>wenzi-demo-projects</name>
+	<description>wenzi-demo-projects</description>
 	
 	<modules>
-		<module>wenzi-commons</module>
-		<module>wenzi-spring-cloud-suites</module>
-		<module>wenzi-demo-projects</module>
+		<module>wenzi-demo-projects-parent</module>
+		<!--<module>wenzi-spring-cloud-suites</module>-->
 	</modules>
 
 
